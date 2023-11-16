@@ -13,5 +13,5 @@
 
 
 
-# Academy
-Página Responsiva com temática sobre Academia
+<h1 align="center">Academy</h1>
+<h3 align="center">Página Responsiva com temática sobre Academia</h3>
