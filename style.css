@@ -14,7 +14,7 @@ html {
 }
 
 body {
-    background: linear-gradient(45deg, black 5%, rgb(121, 7, 7), rgb(223, 2, 2) ) no-repeat;
+    background: linear-gradient(45deg, black, rgb(105, 64, 4), rgb(105, 34, 34) ) no-repeat;
     background-size: 200%;
     animation: mudar 7s ease infinite;
 }
@@ -92,6 +92,10 @@ header nav a {
     color: white;
 }
 
+#central{
+    -webkit-text-stroke: 0.9px black;
+    color: rgb(255, 191, 0);
+}
 .central{
     text-align: center;
     font-size: 3.4em;
@@ -304,7 +308,7 @@ footer p{
 
 .text-primary {
     /*Para span*/
-    color: red;
+    color: rgb(255, 191, 0);
 }
 
 .text-center {
